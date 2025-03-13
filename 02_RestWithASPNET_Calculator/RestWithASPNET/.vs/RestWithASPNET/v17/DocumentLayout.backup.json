@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\02_RestWithASPNET_Calculator\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\02_restwithaspnet_calculator\\restwithaspnet\\restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\02_restwithaspnet_calculator\\restwithaspnet\\restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\02_RestWithASPNET_Calculator\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\02_RestWithASPNET_Calculator\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:40:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\02_RestWithASPNET_Calculator\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\02_RestWithASPNET_Calculator\\RestWithASPNET\\RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNET\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:37:00.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
