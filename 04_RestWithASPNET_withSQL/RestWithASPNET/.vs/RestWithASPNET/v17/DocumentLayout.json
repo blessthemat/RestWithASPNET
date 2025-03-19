@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\model\\script\\script.sql.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\model\\script\\script.sql.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\admin\\desktop\\restwithasp-net\\restwithaspnet\\04_restwithaspnet_withsql\\restwithaspnet\\restwithaspnet\\restwithaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC4A4C73-75B8-4B3B-B3F5-9B015FA35955}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\restwithaspnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "RestWithASPNET\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:27:23.173Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:29:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNET\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T23:25:58.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Script.sql.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Model\\Script\\Script.sql.txt",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Model\\Script\\Script.sql.txt",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Model\\Script\\Script.sql.txt",
+              "RelativeToolTip": "RestWithASPNET\\Model\\Script\\Script.sql.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-17T23:11:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNET\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:11:10.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Services\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Services\\IPersonService.cs",
+              "RelativeToolTip": "RestWithASPNET\\Services\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:10:28.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNET\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:59:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNET\\Model\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:52:40.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RestWithASPNET.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNET\\RestWithASPNET.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\RestWithASPNET.csproj",
+              "RelativeToolTip": "RestWithASPNET\\RestWithASPNET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T22:45:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:39:04.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNET\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\RestWithASP-NET\\RestWithASPNET\\04_RestWithASPNET_withSQL\\RestWithASPNET\\RestWithASPNET\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T22:33:28.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
